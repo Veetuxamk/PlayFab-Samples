@@ -1,0 +1,14 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.3",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "queueTrigger",
+      "queueName": "matchfound",
+      "name": "request"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/PlayFab.SignalRSample.dll",
+  "entryPoint": "PlayFab.SignalRSample.Functions.MatchFound"
+}

@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureSignalRConnectionString": "Endpoint=https://messagesignalrveetu.service.signalr.net;AccessKey=nD3LYmmqndlaILElIIrLrXVe0IiJZJeuR+0st6NbcMc=;Version=1.0;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=veetumessagebase96a4;AccountKey=7SKrjd2VwnaiNLpwxmqgS53pbTuPXDNJkdE/vSkrelM92TAgXHeJiH07RfY5vJZLSnxystG+ksoc+AStEsMDrw==;EndpointSuffix=core.windows.net"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:8080",
+    "CORSCredentials": true
+  }
+}

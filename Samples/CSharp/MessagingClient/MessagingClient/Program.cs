@@ -16,7 +16,7 @@ namespace MessagingClient
     class Program
     {
         // Title Id from PlayFab. Set this depending on the title you're integrating with.
-        private const string TITLE_ID = "XXXXX";
+        private const string TITLE_ID = "6114E";
 
         private static List<string> matchPlayers;
         private static ManualResetEvent matchReady = new ManualResetEvent(false);
